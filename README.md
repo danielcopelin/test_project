@@ -1,3 +1,7 @@
-# Test_project
+# Test project
 
-This is a test project
+This is a test project.
+
+## Subheading
+
+Here is some more info about my test project.
